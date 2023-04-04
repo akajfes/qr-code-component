@@ -16,8 +16,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://akajfes-qr-code.netlify.app/)
+- Solution URL: [Link here](https://www.frontendmentor.io/solutions/qr-code-component-solution-7KMqEoJW8r)
+- Live Site URL: [Link Here](https://akajfes-qr-code.netlify.app/)
 
 ## My process
 
